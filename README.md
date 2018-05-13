@@ -7,7 +7,7 @@ Create a chat app by react
 # Download the code
 git clone https://github.com/jackottawa/ChatApp-React.git
 # Go to project directory and install dependencies
-cd React-Music-Player && npm install
+cd ChatApp-React && npm install
 # To begin the development, run
 'npm start' or 'yarn start'
 # To create a production bundle, use
